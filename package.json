@@ -1,0 +1,19 @@
+{
+  "name": "msi_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "msi_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisheaib/msi_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisheaib/msi_test/issues"
+  },
+  "homepage": "https://github.com/alisheaib/msi_test#readme"
+}
